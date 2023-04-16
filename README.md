@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hola soy Matias Nuñez Fullstack Developers
+## Soy apasionado por la creación de soluciones innovadoras con experiencia en frontend y backend
 
-<!--
-**Matiascba27/Matiascba27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tabla de comandos de linux
+| ls | cd | pwd | mkdir | touch |
+|----|----|-----|-------|-------|
+| Lista los archivos de la carpeta actual.|Nos permite navegar entre carpetas.| Nos nuestra la ruta absoluta del directorio actual.|Crea una nueva carpeta dado un nombre para esa carpeta.|Crea un archivo nuevo dada una ruta y/o nombre|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Comandos de alias
+|ll|update|
+|--|------|
+|ls -l|sudo apt update && sudo apt upgrade|
