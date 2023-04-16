@@ -9,4 +9,4 @@
 ### Comandos de alias
 |ll|update|
 |--|------|
-|ls -l|sudo apt update && sudo apt upgrade|
+|ls -l: lista los archivos con detalles|sudo apt update && sudo apt upgrade: para actualizar el sistema con apt|
