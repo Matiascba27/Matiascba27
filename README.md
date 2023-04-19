@@ -1,5 +1,6 @@
-# Matias Nuñez
-## ¡Hola! Soy un desarrollador web fullstack con experiencia en HTML, CSS y Javascript. Aquí encontrarás información sobre mi experiencia, proyectos y habilidades.
+# 👋 ¡Hola! Mi nombre es Matias Jonathan Nuñez
+## 💻 Soy un apasionado por el desarrollo web. Actualmente resido en la ciudad de Córdoba, Argentina y tengo 30 años. Me dedico principalmente a la creación de sitios web utilizando HTML y CSS, y estoy en constante aprendizaje de nuevos lenguajes y tecnologías como JavaScript. En mi carrera como programador web, he adquirido conocimientos sólidos en la creación de sitios web con HTML y la estilización de los mismos con CSS. Además, me he especializado en la creación de sitios web responsive, capaces de adaptarse a diferentes dispositivos y tamaños de pantalla. Estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo en el mundo del desarrollo web.
+
 ### Aquí te dejo unos comandos más conocidos
 ### 🛠️ Tabla de comandos de linux
 | ls | cd | pwd | mkdir | touch |
